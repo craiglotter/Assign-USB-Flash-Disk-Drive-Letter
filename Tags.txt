@@ -1,0 +1,5 @@
+cscript
+Drive Management
+Threading
+Shell Commands
+WMI scriptfiles

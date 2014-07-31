@@ -1,0 +1,15 @@
+Assign USB Flash Disk Drive Letter allows you to select the drive letter you wish to assign your USB Flash Disk to. When the 'Assign Drive' button becomes active, select the desired drive letter from the drop-down list and click the 'Assign Drive' button to map the drive to your newly selected drive letter. 
+
+You will see that on the right hand side of application is a list of all the currently assigned drives on your machine. Obviously you cannot map your USB drive to a letter that is already mapped. You'll notice that all these already assigned letters do not actually appear in the New Drive Letter drop-down list.
+
+Note: Only the first flash disk present in the machine will be located by the application. 
+
+Should you insert your USB drive into the machine after the initial scan has already completed, simply click on the 'Re-Scan' option to launch the scan procedure from the start again. 
+
+The Help menu item brings up this file while the About menu item gives you more information about this application.
+
+*******************************
+
+For more information, you can contact the developer at Craig.Lotter@gmail.com
+
+-- Last Updated: 08/10/2007 --

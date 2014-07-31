@@ -1,0 +1,3 @@
+APPLICATION_NAME=Assign USB Flash Disk Drive Letter
+EXECUTABLE=Assign USB Flash Disk Drive Letter.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Assign USB Flash Disk Drive Letter/manifest.xml
